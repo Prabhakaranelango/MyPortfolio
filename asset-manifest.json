@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68237c55.css",
+    "main.js": "/static/js/main.58adf5c3.js",
+    "static/media/java.png": "/static/media/java.a954edb8f9404e9a5d94.png",
+    "static/media/c.png": "/static/media/c.6d9fcf12586f460bdc9d.png",
+    "static/media/SQL.png": "/static/media/SQL.28e64e15de7cc0a4a997.png",
+    "static/media/Profile.png": "/static/media/Profile.101fb53ed40071cbdb99.png",
+    "static/media/About.png": "/static/media/About.b9db386ebb813d6ae5f8.png",
+    "static/media/Python.png": "/static/media/Python.afec8fa6cdf61ea02939.png",
+    "static/media/React.png": "/static/media/React.41e35f1726744563d1e6.png",
+    "static/media/Nodejs.png": "/static/media/Nodejs.934f9521f87ce69c93d2.png",
+    "static/media/PHP.png": "/static/media/PHP.1a74bb38e88d210416b6.png",
+    "static/media/HTML.png": "/static/media/HTML.093652ca5f7bbc034102.png",
+    "static/media/Django.png": "/static/media/Django.0f1d9325ff83a47f3da9.png",
+    "static/media/GColab.png": "/static/media/GColab.d4c53463166d2e1f528f.png",
+    "static/media/Flask.png": "/static/media/Flask.d6cfd1a5eb06c33127c9.png",
+    "static/media/Css.png": "/static/media/Css.189dc9dfa3f1c2146953.png",
+    "static/media/VSCode.png": "/static/media/VSCode.1020bca69162e0d53710.png",
+    "static/media/Powerbi.png": "/static/media/Powerbi.37037d28cc7f4c5b1cce.png",
+    "static/media/CH.png": "/static/media/CH.ab9dabdda2f44ddf611d.png",
+    "index.html": "/index.html",
+    "main.68237c55.css.map": "/static/css/main.68237c55.css.map",
+    "main.58adf5c3.js.map": "/static/js/main.58adf5c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68237c55.css",
+    "static/js/main.58adf5c3.js"
+  ]
+}
